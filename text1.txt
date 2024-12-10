@@ -1,1 +1,1 @@
-This is fetch command.
+This is fetch commands.
