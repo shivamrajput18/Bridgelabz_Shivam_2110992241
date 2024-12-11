@@ -1,18 +1,55 @@
-1. Git branch                 (to check the existing branch)
-2. Git merge <branch name>    
-3. Git push -u origin <branch name>
-4. Git checkout -b <branch name>    (to create a new branch)
-5. Git checkout <branch name>         (to switch between branches)
-6. Git init 
-7. Git add <file name>          (to move the file in staging area) 
-8. Git clone URL
-9. Git clone —branch <branch name> URL
-10. Git status
-11. Git remote -v                     ( to check which repo is connected)
-12. Nano <file name>             (to edit text in file.)
-13. Cat <file name>              (to see the content inside file)
-14. Git commit -m “commit message”
-15. Git pull            ( to move into the local from remote)
-16. Git push          ( to move into remote from local)
-17. Git fetch          (to preview )
-18. Git diff origin/main
+Date : 09-12-2024
+   Topics Covered : 1)echo command :   echo "This is a test" > file.txt
+   
+                    2)touch command : Create an Empty File: To create an empty file 
+                                       touch filename.txt
+                                       
+                    3)git init: To initialize a Git repository in the current directory, run:  
+                    
+                    5)git status :To see the current state of your repository.
+                    
+                    6)ls command: to show all files of a current branch.
+                    
+                    7)add command :To add a specific file or multile files to the staging area.
+                                   git add filename.txt
+
+                    8)git branch : to check the existing branch
+
+                    9)git commit -m "[shivam] Add: new feature file added "
+
+                    10)git push -u origin main: is used to push your local main branch to a remote repository 
+
+                    11)git checkout -b feature1 : make new branch and move to that branch.
+
+                    12)git checkout main : to move to main branch
+
+                    13)
+
+ 
+Date : 10-12-2024
+   Topics Covered : 1)git pull : to move into the local from remote.
+   
+                    2)git merge : Git merge <branch name>  .
+                    
+                    3)Git clone URL
+                    
+                    4) Git clone —branch <branch name> URL.
+
+                    5) Nano <file name> : to edit text in file. after ctrl+x then y to exit from edit
+
+                    6)Cat <file name>  : to see the content inside file.
+
+                    7)git fetch : its update rempote but can't update local
+                        git merge  then update local.
+
+                   8)git diff origin/main : is used to compare the changes in your local repository with the remote main branch, typically the origin/main branch, which is the main branch of your remote repository
+
+
+Date : 11-12-2024
+    Topics Covered : 1) git statsh
+                     2)git orphan
+
+
+
+
+   
