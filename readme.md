@@ -23,7 +23,7 @@ Date : 09-12-2024
 
                     12)git checkout main : to move to main branch
 
-                    13)
+                    
 
  
 Date : 10-12-2024
@@ -47,7 +47,8 @@ Date : 10-12-2024
 
 Date : 11-12-2024
     Topics Covered : 1) git statsh
-                     2)git orphan
+                     2)git rebase
+                     3)git stash
 
 
 
