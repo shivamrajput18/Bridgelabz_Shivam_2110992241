@@ -48,8 +48,11 @@ Date : 10-12-2024
  
 Date : 11-12-2024
     Topics Covered : 1) git orphan branch
+    
                      2)git rebase
+                     
                      3)git stash
+                     
                      4)git branch -d feature-branch      # Delete locally (safe)
                        git branch -D feature-branch   #If you need to force delete locally due to unmerged changes.
                        git push origin --delete feature-branch  # Delete from remote
