@@ -23,6 +23,7 @@ Date : 09-12-2024
 
                     12)git checkout main : to move to main branch
 
+                    13)git log : Check commit history.
                     
 
  
