@@ -59,7 +59,9 @@ Date : 11-12-2024
 
 Date : 12-12-2024
    Topics Covered :1)Revision of Git and GitHub.
+   
                   2)Linux Commands.
+                  
                   3)Starting C++.
 
 
