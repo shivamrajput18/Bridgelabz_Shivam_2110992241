@@ -4,7 +4,7 @@ Date : 09-12-2024
                     2)touch command : Create an Empty File: To create an empty file 
                                        touch filename.txt
                                        
-                    3)git init: To initialize a Git repository in the current directory, run:  
+                    3)git init: To initialize a Git repository in the current directory, run.
                     
                     5)git status :To see the current state of your repository.
                     
@@ -57,7 +57,10 @@ Date : 11-12-2024
                        git branch -D feature-branch   #If you need to force delete locally due to unmerged changes.
                        git push origin --delete feature-branch  # Delete from remote
 
-
+Date : 12-12-2024
+   Topics Covered :1)Revision of Git and GitHub.
+                  2)Linux Commands.
+                  3)Starting C++.
 
 
 
