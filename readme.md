@@ -66,11 +66,17 @@ Date : 12-12-2024
 
 Date : 13-12-2024
      Topic Covered : Learning C++
+     
                      1)Data & Data types
+                     
                      2)Variables , reference var
+                     
                      3)Output Instruction
+                     
                      4)Control Statements
+                     
                      5)Function & Inline function
+                     
                      6)Type Casting
                      7)Operator
                      7)Bitwise Operator
