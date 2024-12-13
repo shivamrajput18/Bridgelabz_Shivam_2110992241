@@ -1,0 +1,30 @@
+
+Constants => Any information is constant.
+Data = information = constant
+
+Types of constant
+     Primary:Integer  23,34,-98
+	         Real   3.4,3.0,-3
+
+Types of constant
+     Primary:Integer  23,34,-98
+	         Real   3.4,3.0,-34.4
+			 Character  'a','+','8',' '  = only one symbol
+			 
+	
+	Secondary:Array
+	          String   
+			  Pointer
+			  Union
+			  Structure
+			  Enumerator
+			  Class
+			  
+Program consumes memory in RAM
+
+Variables:
+   Variables are the names of memory locations where we store data.
+   
+Keyword: (48)
+    Keyword are predefined words or reserved words.
+	eg,int,double,struct,char,break,short,float,void,if,while,new,operator

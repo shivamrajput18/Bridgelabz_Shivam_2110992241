@@ -1,0 +1,29 @@
+Bjarne Stroustrup 1979
+
+c++23 
+
+C++ is a middle-level language, as it encapsulates both high and low level language features.
+
+Usage of C++
+	By the help of C++ programming language, we can develop different types of secured and robust applications:
+
+	Window application
+	Client-Server application
+	Device drivers
+	Embedded firmware etc
+	
+   its help for working on Hardware.
+   
+   fast prgram
+   more control over system resources
+   memory management
+   high perfomance
+   
+c++ programming -> compiler -> exe
+prgram start from main function
+
+IDE Integrated Development Environment
+    where you write and execute our code
+  
+instance mean examples.
+
