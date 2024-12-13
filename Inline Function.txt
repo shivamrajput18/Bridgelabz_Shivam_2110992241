@@ -1,0 +1,20 @@
+To eliminaten the cost of calls to small functions,
+     c++ proposes a new feature called Inline function.
+
+An inline function is a function that is expanded in line when it is invoked.
+Complier replaces the function call with the corresponding function code.	
+inline is a request not a command.
+
+inline void fun();
+
+void main(){
+
+   fun();
+
+}
+
+void fun(){
+  cout<<"You are in fun";
+}
+
+

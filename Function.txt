@@ -1,0 +1,46 @@
+Function : is block of code performing a unit task.
+   easy to read
+   easy to modify
+   avoids rewriting of same code
+   easy to debug
+   better memory utilization
+   
+   
+//call by value
+void main(){
+   int a=5,b=6;
+   int s=sum(a,b);
+   cout<<s;
+}
+
+int sum(int x,int y){  // When formal arguments are ordinary variables,it is function call by value.
+  return(x+y);
+}
+
+
+
+
+//call by address
+void main(){
+   int a=5,b=6;
+   int s=sum(&a,&b); // &a,&b
+   cout<<s;
+}
+
+int sum(int *p,int *q){  // When formal arguments are pointer variables,it is function call by address.
+  return(*p+*q);
+}
+
+
+
+
+//call by reference
+void main(){
+   int a=5,b=6;
+   int s=sum(a,b); 
+   cout<<s;
+}
+
+int sum(int &x,int &y){  // When formal arguments are reference variables,it is function call by reference.
+  return(x+y);
+}

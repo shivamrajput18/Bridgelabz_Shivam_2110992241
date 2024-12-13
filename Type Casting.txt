@@ -1,0 +1,18 @@
+How -ve nos are stored
+  First bit
+     +ve > 0
+	 -ve > 1
+	 
+	 eg -5
+	   ignore -ve sign
+	     5
+       convert into binary rep
+	      101
+	   take 2's compliment & store.
+	   
+ 
+ int/int=int
+ double/int=double
+ float/int=float
+ 
+ 
