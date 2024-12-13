@@ -78,7 +78,9 @@ Date : 13-12-2024
                      5)Function & Inline function
                      
                      6)Type Casting
+                     
                      7)Operator
+                     
                      7)Bitwise Operator
                    
      
