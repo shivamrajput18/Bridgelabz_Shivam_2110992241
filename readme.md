@@ -84,5 +84,12 @@ Date : 13-12-2024
                      7)Bitwise Operator
                    
      
+Date : 16-12-2024
+   Topic Covered : 1)Code Hijacking
 
+                   2)Pointer
+
+                   3Call By Value
+
+                   4)Call By Reference
    
