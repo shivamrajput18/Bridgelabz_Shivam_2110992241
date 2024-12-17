@@ -92,4 +92,17 @@ Date : 16-12-2024
                    3Call By Value
 
                    4)Call By Reference
+
+Date : 17-12-2024
+   Topic Covered : 1)Double Pointer
+                 
+                   2)Signed & Unsigned
+   
+                   3)Keywords
+                   
+                   4)identifiers
+                   
+                   5)Constants
+
+                   6)Revised OPerators & its types
    
