@@ -73,5 +73,52 @@ Date : 13-12-2024
 
                      4)short vs long
 
+                     5)Type Casting
+
 Date : 16-12-2024
-  Topics Covered: 1)
+  Topics Covered: 1)Operators & its types
+
+                  2)If-Else statements & nested if-else
+
+                  3)Switch Statements
+
+                  4)Loops -> for loops,while loops , do-while loops & nested loops
+
+Date : 17-12-2024
+    Topics Covered : 1)Solving Pattern Problems
+
+                     2)Bits Manipulation
+
+                     3)Function , Inline function
+
+                     4)Arrays
+
+Date : 18-12-2024
+    Topics Covered : 1)Char arrays 
+
+                     2)String
+
+                     3)Pass by Value,Pass by reference
+
+                     4)Pointers & Double Pointer
+
+                     5)Reference Variables
+
+
+Date : 19-12-2024
+    Topics Covered : 1)Structure
+
+                     2)Union
+
+                     3)Enumeration
+
+                     4)Exception Handling
+
+Date : 20-12-2024
+   Topics Covered : 1)Memory Management
+
+                    2)Macros, Global Variables ,Default Arguments
+
+                    3)Matrix
+
+                    4)Solving Problems on Review_1
