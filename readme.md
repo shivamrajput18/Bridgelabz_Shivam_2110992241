@@ -122,3 +122,27 @@ Date : 20-12-2024
                     3)Matrix
 
                     4)Solving Problems on Review_1
+
+Date : 23-12-2024
+   Topics Covered : 1)Class & Objects
+   
+                    2)Access Modifiers
+
+                    3)Solving assignment 1 and 2 
+
+
+Date : 24-12-2024
+    Topics Covered : 1)Opps Concept
+
+                     2)Constructors
+
+                     3)Encapsulation
+
+                     4)Abstraction
+
+                     5)Inheritance
+
+                     6)Polymorphism
+
+                                           
+                    
