@@ -75,6 +75,8 @@ Date : 13-12-2024
 
                      5)Type Casting
 
+                     6)Static Variables.
+
 Date : 16-12-2024
   Topics Covered: 1)Operators & its types
 
@@ -156,7 +158,7 @@ Date : 10-01-2025
                     2)Revised 
 
 
-Date : 13-12-2024
+Date : 13-12-2025
     Topics Covered : 1)Abstraction
 
                     2)Inheritance
@@ -168,3 +170,16 @@ Date : 13-12-2024
                     5)Scope Resolution Operator ::
 
                     6)Method Sinature
+
+Date : 14-01-2025
+  Topics Covered : 1)Revised Inline & Constexpr Function.
+
+                    2)Revised Constructor & its types & Destructor & Dalegating Constructor.
+
+                    3)Virtual Inheritance
+
+                    4)Abstract Class
+
+                    
+
+                    
