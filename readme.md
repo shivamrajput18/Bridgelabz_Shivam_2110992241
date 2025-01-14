@@ -134,15 +134,37 @@ Date : 23-12-2024
 Date : 24-12-2024
     Topics Covered : 1)Opps Concept
 
-                     2)Constructors
+                     2)Constructors and its types
 
-                     3)Encapsulation
-
-                     4)Abstraction
-
-                     5)Inheritance
-
-                     6)Polymorphism
+                     3)Destructor
 
                                            
-                    
+Date : 07-01-2025
+  Topics Covered : 1)Code ChessGame Console
+
+Date : 08-01-2025
+  Topics Covered : 1) Complete chess game program
+
+Date : 09-01-2025
+   Topics Covered : 1)Review 2
+
+                    2)Encapsulation
+
+Date : 10-01-2025
+   Topics Covered : 1)Polymorphism
+
+                    2)Revised 
+
+
+Date : 13-12-2024
+    Topics Covered : 1)Abstraction
+
+                    2)Inheritance
+
+                    3)operator overloading
+
+                    4)Macros
+
+                    5)Scope Resolution Operator ::
+
+                    6)Method Sinature
