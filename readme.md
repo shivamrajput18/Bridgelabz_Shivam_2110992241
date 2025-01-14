@@ -180,6 +180,12 @@ Date : 14-01-2025
 
                     4)Abstract Class
 
+                    5)Dynamic Binding / late Binding
+
+                    6)Virtual Map Table(v-table)
+
+                    7)Implicit Class-Type Conversion
+
                     
 
                     
