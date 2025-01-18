@@ -185,7 +185,28 @@ Date : 14-01-2025
                     6)Virtual Map Table(v-table)
 
                     7)Implicit Class-Type Conversion
-
                     
 
+Date : 15-01-2025
+    Topics Covered : 1)Revised Opps Concept
+    
+                     2)Review 3
+
+Date : 16-01-2025
+    Topics Covered : Data Structure and algorithm - Linear & Non-Linear
+
+                    1)Bubble Sort
+
+                    2)Selection Sort
+
+                    3)Insertion Sort
+
+Date : 17-01-2025
+   Topics Covered : 1)Merge Sort
+
+                    2)Quick Sort
+
+                    3)Linear Search
+
+                    4)Binary Search
                     
